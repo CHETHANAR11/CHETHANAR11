@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethana Sree</h1>
 <h3 align="center">A passionate Mobile App developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5388980/screenshots/14916481/media/1dca99634dad220807fa32d26c860ded.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanar11&label=Profile%20views&color=0e75b6&style=flat" alt="chethanar11" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif">
 
 - 🔭 I’m currently working on **GAMEGUIDE APP**
 
