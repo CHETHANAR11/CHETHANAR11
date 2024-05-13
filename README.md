@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chethana Sree</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/795597/screenshots/6081444/mobile_development2.gif">
 
 - 👨‍💻 All of my projects are available at [https://chethanasree.netlify.app/](https://chethanasree.netlify.app/)
